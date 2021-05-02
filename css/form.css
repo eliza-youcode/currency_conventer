@@ -1,0 +1,70 @@
+.form__container {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto 20px;
+    padding: 5px;
+    background-color: rgb(221, 221, 221);
+    border-radius: 10px;
+    box-shadow: 11px 10px 37px -2px rgb(209, 71, 90);;
+}
+
+.form {
+    margin-top: 40px;
+}
+
+.form__fieldset {
+    border: 2px solid rgb(91, 91, 92);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.form__legend {
+    background-color: rgb(202, 110, 122);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.form__label {
+    width: 100%;
+    max-width: 100px;
+    font-weight: bold;
+}
+
+.form__strong {
+    display: table;
+    padding: 15px 0;
+}
+
+.form__field {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 5px;
+    border-radius: 5px;
+}
+
+.button__container {
+    text-align: center;
+}
+
+.form__button {
+    background-color: rgb(202, 110, 122);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.form__button:hover {
+    border: 2px solid rgb(219, 34, 59);
+    color: rgb(219, 34, 59);
+}
+
+.form__button:active {
+    color: rgb(211, 47, 69);
+}
