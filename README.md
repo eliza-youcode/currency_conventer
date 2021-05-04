@@ -1,4 +1,4 @@
-# currency_conventer - application for the YouCode course
+# Currency conventer - application for the YouCode course
 
 ## Preview site:
 [Currency converter](https://eliza-youcode.github.io/currency_conventer/)
