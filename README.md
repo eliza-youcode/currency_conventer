@@ -1,9 +1,9 @@
 # currency_conventer - application for the YouCode course
 
 ## Preview site:
-https://eliza-youcode.github.io/currency_conventer/
+[GitHub](https://eliza-youcode.github.io/currency_conventer/)
 
-## Table of content:
+## Table of contents:
 - [General info](#info)
 - [Technologies](#technologies)
 - [Usage](#usage)
@@ -22,4 +22,6 @@ This is a simply currency converter created to practise JavaScript in the form. 
 2. Click on "Przelicz" 
 3. All the values in EUR, USD and GBP should be visible right now :)
 4. To reset the converter click "Resetuj"
+
+
 
