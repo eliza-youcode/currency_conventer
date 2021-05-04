@@ -1,7 +1,7 @@
 # currency_conventer - application for the YouCode course
 
 ## Preview site:
-[GitHub link](https://eliza-youcode.github.io/currency_conventer/)
+[Currency converter link](https://eliza-youcode.github.io/currency_conventer/)
 
 ## Table of contents:
 - [General info](#info)
