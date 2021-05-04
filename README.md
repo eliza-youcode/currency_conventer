@@ -18,5 +18,8 @@ This is a simply currency converter created to practise JavaScript in the form. 
 - ES6+
 
 ## Usage:
-
+1. Type the value in PLN.
+2. Click on "Przelicz" 
+3. All the values in EUR, USD and GBP should be visible right now :)
+4. To reset the converter click "Resetuj"
 
