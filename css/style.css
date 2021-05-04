@@ -9,10 +9,9 @@ html {
 .body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
-    background-color: rgb(233, 231, 231);
-    max-width: 1000px;
-    margin: auto;
-    padding: 20px;
+    background-image: url("../images/background.png");
+    background-size: cover;
+    background-position:center;
 }
 
 .header {
