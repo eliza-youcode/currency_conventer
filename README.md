@@ -11,6 +11,8 @@
 ## General info:
 This is a simply **currency converter** created to practise JavaScript in the form. The application convert entered value in PLN to EUR, USD and GBP.
 
+![Currency converter](https://i.postimg.cc/DzMNxmjv/Animation-currency.gif)
+
 ## Technologies:
 - HTML
 - CSS
