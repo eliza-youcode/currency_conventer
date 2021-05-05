@@ -33,12 +33,12 @@
         usdElement.innerText = "0 USD";
         gbpElement.innerText = "0 GBP";
     }
-    
+
     const init = () => {
         const form = document.querySelector(".js-form");
         form.addEventListener("submit", submit);
         const resetButton = document.querySelector(".js-resetButton");  
-        resetButton.addEventListener("reset", resetForm);
+        resetButton.addEventListener("click", resetForm);
     }
 init();
 
