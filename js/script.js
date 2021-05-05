@@ -39,7 +39,7 @@
         form.addEventListener("submit", submit);
         resetButton.addEventListener("reset", resetForm);
     }
-init();
+init()
 
 }
 
