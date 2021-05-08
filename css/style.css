@@ -9,13 +9,11 @@ html {
 .body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
     background-image: url("../images/background.png");
     background-size: cover;
     background-position:center;
-}
-
-.header {
-    text-align: center;
-    color: rgb(209, 71, 90);
-    text-shadow: 1px 2px 5px rgb(78, 76, 76);
 }
