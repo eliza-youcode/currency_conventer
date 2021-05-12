@@ -13,7 +13,7 @@
        
     }
 
-    const submit = (event) => {
+    const onFormSubmit = (event) => {
         const plnElement = document.querySelector(".js-pln");
         event.preventDefault();
        
@@ -36,7 +36,7 @@
 
     const init = () => {
         const form = document.querySelector(".js-form");
-        form.addEventListener("submit", submit);
+        form.addEventListener("submit", onFormSubmit);
         const resetButton = document.querySelector(".js-resetButton");  
         resetButton.addEventListener("click", resetForm);
     }
